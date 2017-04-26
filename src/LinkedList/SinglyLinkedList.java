@@ -45,7 +45,7 @@ public class SinglyLinkedList<Item> implements Iterable<Item> {
         if (index == 1)
             addFirst(element);
         else
-            linkBefore(element, node(index));
+            linkBefore(element, node(index - 1));
     }
 
     private void linkBefore(Item item, Node prev) {
@@ -57,7 +57,7 @@ public class SinglyLinkedList<Item> implements Iterable<Item> {
 
     private Node node(int index) {
         Node x = first;
-        for (int i = 0; i < index; i++)
+        for (int i = 1; i < index; i++)
             x = x.next;
         return x;
     }
