@@ -3,6 +3,15 @@
  * Execution:    java SinglyLinkedList
  * Dependencies: -
  * Author:		 Parth Vikani
+ *
+ * ========
+ * API:
+ * ========
+ * public void addFirst(Item item)
+ * public void addLast(Item item)
+ * public void addBefore(Item item)
+ * public Iterator iterator()
+ * public void print()
  ******************************************************************************/
 
 import java.util.Iterator;
