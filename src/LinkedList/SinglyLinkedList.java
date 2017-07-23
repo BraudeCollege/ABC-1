@@ -118,6 +118,7 @@ public class SinglyLinkedList<Item> implements Iterable<Item> {
         // Add items in linked list
         sl.addLast(30);
         sl.addFirst(1);
+        sl.addBefore(1, 22);
 
         // Traverse linked list
         Iterator<Integer> itr = sl.iterator();
