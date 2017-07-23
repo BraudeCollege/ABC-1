@@ -198,7 +198,6 @@ public class DoublyLinkedList<Item> implements Iterable<Item> {
         }
         System.out.println(list);
 
-
         System.out.println("Remove elements that are even via previous() and remove()");
         while (iterator.hasPrevious()) {
             int x = iterator.previous();
