@@ -4,7 +4,7 @@ Always Be Coding!
 ## Table of Contents
 
 - [What is it?](#what-is-it)
-- [Different Types of Linked List](#different-tyes-of-linked-list)
+- [Different Types of Linked List](#different-types-of-linked-list)
 - [Advantages](#Advantages)
 - [Disadvantages](#Disadvantages)
 - [Must Programs](#mustprogramms)
@@ -26,7 +26,7 @@ Always Be Coding!
 ## Advantages
 
 
-## Disadvantage
+## Disadvantages
 
 ## Must Programs
 
